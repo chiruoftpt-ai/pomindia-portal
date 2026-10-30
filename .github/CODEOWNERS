@@ -1,0 +1,6 @@
+# Human-only review areas. Add paths here as they appear.
+/.github/            @chiruoftpt-ai
+/CLAUDE.md           @chiruoftpt-ai
+/pyproject.toml      @chiruoftpt-ai
+/migrations/         @chiruoftpt-ai
+/src/pomindia_portal/auth/      @chiruoftpt-ai
